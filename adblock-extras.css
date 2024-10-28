@@ -6,7 +6,7 @@
 @author         Ridge & contributors
 ==/UserStyle== */
 
-/* Remove avatar decorations */
+/* Remove avatar decorations
 svg[class*=avatarDecoration_] {
   display: none;
 }
@@ -14,13 +14,13 @@ img[class*=avatarDecoration_] {
   display: none;
 }
 
-/* Remove profile decorations */
 div[class*=profileEffects] {
     display: none;
 }
 div[class*=userProfileModalInner]>header>svg>foreignObject>div[class*=bannerPremium] {
     display: none;
 }
+*/
 
 /* Server booster icon */
 svg[class*=premiumIcon_] {
